@@ -11,6 +11,9 @@ dog_function(love = TRUE)
 \arguments{
 \item{love}{Do you love dogs? Defaults to TRUE.}
 }
+\value{
+\code{character} Dog person verdict
+}
 \description{
 A Dog Function
 

@@ -2,6 +2,7 @@
 #'
 #' This function allows you to express your love of cats.
 #' @param love Do you love cats? Defaults to TRUE.
+#' @return \code{character} Cat person verdict
 #' @keywords cats
 #' @export
 #' @examples

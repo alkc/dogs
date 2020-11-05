@@ -4,6 +4,7 @@
 #'
 #' This function investigates your love of dogs.
 #' @param love Do you love dogs? Defaults to TRUE.
+#' @return \code{character} Dog person verdict
 #' @keywords dogs
 #' @export
 #' @examples

@@ -11,6 +11,9 @@ cat_function(love = TRUE)
 \arguments{
 \item{love}{Do you love cats? Defaults to TRUE.}
 }
+\value{
+\code{character} Cat person verdict
+}
 \description{
 A Cat Function
 
