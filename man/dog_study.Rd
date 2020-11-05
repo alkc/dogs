@@ -5,7 +5,7 @@
 \alias{dog_study}
 \title{Dog parameters}
 \format{
-An object of class \code{"tibble"}
+An object of class \code{"tibble"} \code `dog_id`
 }
 \source{
 \href{https://i.redd.it/fd0f3p43mqqy.jpg}{Archive}
@@ -14,10 +14,11 @@ An object of class \code{"tibble"}
 data(dog_study)
 }
 \description{
-Data from infamous dog breeding experiment
+Dataset containing dog parameters gathered during from the (infamous) dog improvement program 2020 - 2022.
 }
 \examples{
 data(dog_study)
+summary(dog_study)
 }
 \references{
 L'bardo et al. (2022) Dog Genetics 231:177-216

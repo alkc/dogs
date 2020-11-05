@@ -1,12 +1,12 @@
 #' Dog parameters
 #'
-#' Data from infamous dog breeding experiment
+#' @description Dataset containing dog parameters gathered during from the (infamous) dog improvement program 2020 - 2022.
 #'
 #' @docType data
 #'
 #' @usage data(dog_study)
 #'
-#' @format An object of class \code{"tibble"}
+#' @format An object of class \code{"tibble"} \code `dog_id`
 #'
 #' @keywords datasets
 #'
@@ -17,4 +17,5 @@
 #'
 #' @examples
 #' data(dog_study)
+#' summary(dog_study)
 "dog_study"
