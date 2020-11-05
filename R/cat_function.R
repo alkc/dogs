@@ -1,6 +1,6 @@
-#' A Cat Function
+#' @title A Cat Function
 #'
-#' @title This function allows you to express your love of cats.
+#' This function allows you to express your love of cats.
 #' @param love Do you love cats? Defaults to TRUE.
 #' @keywords cats
 #' @export
