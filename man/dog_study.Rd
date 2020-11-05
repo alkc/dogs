@@ -5,7 +5,7 @@
 \alias{dog_study}
 \title{Dog parameters}
 \format{
-An object of class \code{"tibble"} \code `dog_id`
+An object of class \code{"tibble"}
 }
 \source{
 \href{https://i.redd.it/fd0f3p43mqqy.jpg}{Archive}

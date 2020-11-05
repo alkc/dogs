@@ -6,7 +6,7 @@
 #'
 #' @usage data(dog_study)
 #'
-#' @format An object of class \code{"tibble"} \code `dog_id`
+#' @format An object of class \code{"tibble"}
 #'
 #' @keywords datasets
 #'
