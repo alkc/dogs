@@ -14,3 +14,4 @@ Collate:
     'cat_function.R'
     'dog_function.R'
     'dog_study.R'
+    'plot_dog_angle.R'

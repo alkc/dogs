@@ -2,3 +2,4 @@
 
 export(cat_function)
 export(dog_function)
+export(plot_dog_angle)
