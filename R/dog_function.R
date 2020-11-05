@@ -11,7 +11,7 @@
 
 dog_function <- function(love=TRUE){
   if(love==TRUE){
-    print("I love dogs!")
+    return("I love dogs!")
   }
   else {
     cat_function(love = !love)

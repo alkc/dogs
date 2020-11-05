@@ -9,9 +9,9 @@
 
 cat_function <- function(love=TRUE){
   if(love==TRUE){
-    print("I love cats!")
+    return("I love cats!")
   }
   else {
-    print("I am not a cool person.")
+    return("I am not a cool person.")
   }
 }
