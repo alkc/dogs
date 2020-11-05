@@ -1,5 +1,4 @@
 #' @include dog_study.R
-
 #' @title Plot Dog Angles
 #'
 #' Plot dog angles and interactions with carbon footpring and dog criminal record
