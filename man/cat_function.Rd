@@ -2,7 +2,7 @@
 % Please edit documentation in R/cat_function.R
 \name{cat_function}
 \alias{cat_function}
-\title{A Cat Function}
+\title{This function allows you to express your love of cats.}
 \usage{
 cat_function(love = TRUE)
 }
@@ -10,7 +10,7 @@ cat_function(love = TRUE)
 \item{love}{Do you love cats? Defaults to TRUE.}
 }
 \description{
-This function allows you to express your love of cats.
+A Cat Function
 }
 \examples{
 cat_function()
